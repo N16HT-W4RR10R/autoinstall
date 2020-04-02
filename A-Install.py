@@ -1,5 +1,5 @@
-#Mau ngapain..?? 
-#Recode??, tinggal make apa susahnya si..!! 
+#Mau ngapain..??
+#Recode??, tinggal make apa susahnya si..!!
 #Encrypt by N16HT_W4RR10R
 #Github : https://github.com/N16HT-W4RR10R
 import marshal,zlib,base64
